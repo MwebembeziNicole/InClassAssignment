@@ -18,7 +18,7 @@ app.listen(PORT, ()=>{
                     modes.registerUser(MainMenu);
 
                     case "2":
-                        mode.LoginUser(MainMenu);
+                        mode.LoginUser     (MainMenu);
 
                         case "3":
                             console.log("Existing application...\n");
